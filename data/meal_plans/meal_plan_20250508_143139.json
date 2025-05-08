@@ -1,0 +1,34 @@
+{
+    "timestamp": "2025-05-08T14:31:39.892481",
+    "user_profile": {
+        "user_id": 1,
+        "email": "sabat1049@gmail.com",
+        "password_hash": "8813013967ef42397959c0e17965d416c132af23f6acd3d79b459154c0b43a4e",
+        "age": 30,
+        "gender": "M",
+        "height_cm": 170.0,
+        "weight_kg": 70.0,
+        "med_conditions": "none",
+        "allergies": "none",
+        "sleep_hours": 7.0,
+        "activity_level": "low",
+        "diet_pref": "veg",
+        "gluten_free": 0,
+        "lactose_intol": 0,
+        "goal": "Weight Loss",
+        "target_weight": 65.0,
+        "target_duration": 12,
+        "bmi": 24.22,
+        "bmi_status": "Normal weight",
+        "created_at": "2025-05-08 01:01:55",
+        "updated_at": "2025-05-08 09:01:23"
+    },
+    "calorie_target": 1243,
+    "macros": {
+        "carbs_g": 155,
+        "protein_g": 62,
+        "fat_g": 41
+    },
+    "custom_plan": null,
+    "meal_plan": "## Weekly Vegetarian Meal Plan for Weight Loss (1243 kcal, 62g Protein, 155g Carbs, 41g Fat)\n\nThis meal plan is an example and calorie/macro counts are estimates.  Adjust portion sizes to meet your individual needs and always check nutrition labels for accurate information.\n\n\n**Monday**\n\n1. **Breakfast (350 kcal, 20g P, 50g C, 15g F):** Oatmeal with Berries and Nuts\n    * **Ingredients:** 1/2 cup rolled oats, 1 cup unsweetened almond milk, 1/4 cup mixed berries, 1 tbsp chopped walnuts.\n    * **Instructions:** Cook oats according to package directions with almond milk. Top with berries and walnuts.\n    * **Notes:** Choose gluten-free oats if preferred.\n\n2. **Morning Snack (150 kcal, 5g P, 25g C, 5g F):** Apple slices with 2 tablespoons of peanut butter.\n    * **Ingredients:** 1 medium apple, 2 tbsp peanut butter (natural, no added sugar).\n    * **Instructions:** Slice apple and spread peanut butter on slices.\n\n3. **Lunch (400 kcal, 25g P, 60g C, 10g F):** Lentil Soup with Whole-Wheat Bread (1 slice)\n    * **Ingredients:** 1.5 cups lentil soup (homemade or low-sodium canned), 1 slice whole-wheat bread.\n    * **Instructions:** Heat lentil soup. Serve with a slice of whole-wheat bread.\n    * **Notes:**  Make your own soup for better control over sodium and ingredients.\n\n4. **Evening Snack (100 kcal, 5g P, 15g C, 5g F):**  Handful of almonds (approx. 23 almonds).\n    * **Ingredients:** 23 almonds.\n\n5. **Dinner (243 kcal, 7g P, 45g C, 11g F):**  Vegetable Stir-fry with Quinoa\n    * **Ingredients:** 1/2 cup cooked quinoa, 1 cup mixed vegetables (broccoli, carrots, peppers), 1 tbsp soy sauce (low sodium), 1 tsp sesame oil.\n    * **Instructions:** Stir-fry vegetables in sesame oil. Add cooked quinoa and soy sauce.\n\n\n**Tuesday**\n\n1. **Breakfast (300 kcal, 18g P, 45g C, 10g F):** Greek Yogurt with Fruit and Chia Seeds\n    * **Ingredients:** 1 cup plain Greek yogurt, 1/2 cup mixed berries, 1 tbsp chia seeds.\n\n2. **Morning Snack (100 kcal, 5g P, 15g C, 5g F):**  A small banana.\n\n3. **Lunch (450 kcal, 28g P, 70g C, 12g F):**  Chickpea Salad Sandwich on Whole-Wheat Bread (1 slice)\n    * **Ingredients:** 1/2 cup mashed chickpeas, 1 tbsp mustard, 1 tbsp chopped celery, 1 slice whole wheat bread, lettuce.\n\n4. **Evening Snack (150 kcal, 7g P, 20g C, 7g F):**  Cottage cheese (1/2 cup) with a few berries.\n\n5. **Dinner (243 kcal, 14g P, 40g C, 10g F):**  Vegetable Curry with Brown Rice (1/2 cup)\n    * **Ingredients:** 1 cup vegetable curry (homemade or low-sodium pre-made), 1/2 cup cooked brown rice.\n\n\n**Wednesday - Sunday:** Follow a similar pattern, varying vegetables, legumes (lentils, chickpeas, beans), and whole grains (quinoa, brown rice, whole-wheat bread).  Include different nuts and seeds for snacks.  Experiment with different spices and herbs to keep meals interesting.  Examples of meals:\n\n\n* **Breakfast options:**  Smoothies (with protein powder, fruits, vegetables, and almond milk), Scrambled tofu with vegetables, whole-wheat toast with avocado.\n* **Lunch options:**  Vegetable wraps, salads with legumes or tofu, vegetable and bean burritos.\n* **Dinner options:**  Pasta with lentil \"meat\" sauce (gluten-free pasta if preferred), black bean burgers on whole-wheat buns, stuffed bell peppers with quinoa and vegetables.\n\n\n**Grocery List**\n\n**Produce:**\n\n* Apples: 3 medium\n* Bananas: 3 medium\n* Mixed Berries (frozen): 2 bags (1lb each)\n* Broccoli: 1 head\n* Carrots: 1 bunch\n* Bell peppers (various colors): 3\n* Onion: 1 large\n* Garlic: 1 bulb\n* Celery: 1 stalk\n* Lettuce: 1 head\n\n\n**Proteins (Plant-Based):**\n\n* Rolled Oats (gluten-free): 1 container\n* Lentils (brown or green): 1 cup (dried)\n* Chickpeas (canned): 2 cans\n* Quinoa: 1 cup (dried)\n* Peanut butter (natural, no added sugar): 1 jar\n* Almonds: 1 bag (raw, unsalted)\n* Chia seeds: 1 container\n* Tofu: 1 block\n* Protein powder (vegetarian): 1 container (optional)\n\n\n**Dairy and Alternatives:**\n\n* Greek Yogurt (plain, nonfat): 2 containers\n* Cottage Cheese (low-fat): 1 container\n* Almond milk (unsweetened): 1 carton\n\n\n**Grains and Bread:**\n\n* Whole-wheat bread: 1 loaf\n* Brown rice: 1 cup (dried)\n* Gluten-free pasta (optional): 1 box\n\n\n**Pantry Items:**\n\n* Olive oil: 1 bottle\n* Sesame oil: 1 bottle\n* Soy sauce (low sodium): 1 bottle\n* Spices (turmeric, cumin, coriander, chili powder, etc.): as needed\n* Mustard: 1 jar\n\n\n**Snacks and Treats:**\n\n* Nuts (various): as needed\n\n\n**Beverages:**\n\n* Water: plenty\n\n\n**Note:** This grocery list is a guideline. Adjust quantities based on your consumption and preferences.  Consider buying some items in bulk to save money.  Prioritize fresh produce whenever possible.  This plan is a starting point; adjust portion sizes and meal choices to fit your individual needs and preferences.  Consult a registered dietitian or nutritionist for personalized guidance.\n"
+}

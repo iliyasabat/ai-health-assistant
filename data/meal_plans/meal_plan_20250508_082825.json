@@ -1,0 +1,34 @@
+{
+    "timestamp": "2025-05-08T08:28:25.333224",
+    "user_profile": {
+        "user_id": 1,
+        "email": "sabat1049@gmail.com",
+        "password_hash": "8813013967ef42397959c0e17965d416c132af23f6acd3d79b459154c0b43a4e",
+        "age": 30,
+        "gender": "M",
+        "height_cm": 170.0,
+        "weight_kg": 70.0,
+        "med_conditions": "none",
+        "allergies": "none",
+        "sleep_hours": 7.0,
+        "activity_level": "low",
+        "diet_pref": "veg",
+        "gluten_free": 0,
+        "lactose_intol": 0,
+        "goal": "Weight Loss",
+        "target_weight": 65.0,
+        "target_duration": 12,
+        "bmi": 24.22,
+        "bmi_status": "Normal weight",
+        "created_at": "2025-05-08 01:01:55",
+        "updated_at": "2025-05-08 02:58:09"
+    },
+    "calorie_target": 1243,
+    "macros": {
+        "carbs_g": 155,
+        "protein_g": 62,
+        "fat_g": 41
+    },
+    "custom_plan": null,
+    "meal_plan": "## Weekly Vegetarian Meal Plan for Weight Loss (1243 kcal, 62g Protein, 155g Carbs, 41g Fat)\n\nThis meal plan is a suggestion and calorie/macro counts are estimates.  Adjust portion sizes as needed to meet your individual needs and always consult a doctor or registered dietitian before starting any weight loss program.\n\n**Day 1 (Monday)**\n\n1. **Breakfast (350 kcal, 15g Protein, 50g Carbs, 15g Fat):** Oatmeal with Berries and Nuts\n    * Ingredients: 1/2 cup rolled oats, 1 cup unsweetened almond milk, 1/4 cup mixed berries, 1 tbsp chopped walnuts.\n    * Instructions: Cook oats according to package directions with almond milk. Top with berries and walnuts.\n    * Macros: (Approximate) 15g Protein, 50g Carbs, 15g Fat\n\n2. **Morning Snack (150 kcal, 5g Protein, 20g Carbs, 5g Fat):** Apple slices with 2 tablespoons peanut butter\n    * Ingredients: 1 medium apple, 2 tbsp peanut butter (natural)\n    * Instructions: Slice apple and spread with peanut butter.\n    * Macros: (Approximate) 5g Protein, 20g Carbs, 5g Fat\n\n3. **Lunch (300 kcal, 20g Protein, 40g Carbs, 10g Fat):** Lentil Soup with Whole Wheat Bread (1 slice)\n    * Ingredients: 1.5 cups lentil soup (homemade or low-sodium canned), 1 slice whole wheat bread\n    * Instructions: Heat lentil soup. Serve with whole wheat bread.\n    * Macros: (Approximate) 20g Protein, 40g Carbs, 10g Fat\n\n4. **Evening Snack (100 kcal, 5g Protein, 15g Carbs, 5g Fat):** Small bowl of plain Greek yogurt with a sprinkle of chia seeds\n    * Ingredients: 1/2 cup plain nonfat Greek yogurt, 1 tsp chia seeds\n    * Instructions: Combine yogurt and chia seeds.\n    * Macros: (Approximate) 5g Protein, 15g Carbs, 5g Fat\n\n5. **Dinner (343 kcal, 17g Protein, 30g Carbs, 16g Fat):**  Vegetable Stir-fry with Quinoa\n    * Ingredients: 1 cup cooked quinoa, 1 cup mixed vegetables (broccoli, carrots, peppers), 2 tbsp soy sauce (low sodium), 1 tbsp olive oil.\n    * Instructions: Stir-fry vegetables in olive oil. Add quinoa and soy sauce.\n    * Macros: (Approximate) 17g Protein, 30g Carbs, 16g Fat\n\n\n**Days 2-7:** Follow a similar structure, varying the meals to prevent boredom.  Here are some alternative meal ideas:\n\n\n**Day 2:** Chickpea salad sandwich on whole-wheat bread, banana, vegetable curry with brown rice, cottage cheese with berries.\n\n**Day 3:** Tofu scramble with spinach and whole-wheat toast, handful of almonds, black bean burger on a whole-wheat bun,  a small handful of trail mix, lentil and vegetable stew.\n\n**Day 4:** Smoothie with spinach, banana, almond milk, and protein powder,  a rice cake with avocado,  vegetarian chili with cornbread (gluten-free),  a pear,  vegetable and tofu stir-fry.\n\n**Day 5:**  Overnight oats with berries and chia seeds,  baby carrots and hummus,  vegetarian pasta with marinara sauce (whole wheat pasta),  a small orange,  baked sweet potato with black beans and salsa.\n\n**Day 6:**  Scrambled eggs with whole-wheat toast (if not strictly vegan),  apple slices with almond butter,  vegetarian lasagna (gluten-free),  a handful of grapes,  quinoa salad with roasted vegetables.\n\n**Day 7:**  Breakfast burrito with scrambled tofu and black beans (gluten-free wrap),  a small orange,  vegetarian pizza on gluten-free crust,  air-popped popcorn,  lentil soup.\n\n\n**Comprehensive Grocery List:**\n\n**Produce:**\n\n* Apples: 3 medium\n* Bananas: 2\n* Berries (mixed): 1 pint\n* Broccoli: 1 head\n* Carrots: 1 bunch\n* Bell peppers (various colors): 2\n* Spinach: 1 bag\n* Pear: 1\n* Orange: 2 small\n* Grapes: 1 bunch\n* Sweet potato: 1 large\n* Avocado: 1\n\n\n**Proteins (Plant-based):**\n\n* Rolled oats: 1 container\n* Lentils: 1 cup (dry)\n* Quinoa: 1 cup (dry)\n* Chickpeas: 1 can\n* Black beans: 2 cans\n* Tofu: 1 block\n* Peanut butter (natural): 1 jar\n* Almonds: 1/2 cup\n* Chia seeds: 1 container\n* Soy sauce (low sodium): 1 bottle\n* Protein powder (optional): 1 container\n\n\n**Dairy & Alternatives:**\n\n* Almond milk (unsweetened): 1 carton\n* Greek yogurt (plain, nonfat): 1 container\n* Cottage cheese (low-fat): 1 container\n\n\n**Grains & Bread:**\n\n* Whole wheat bread: 1 loaf\n* Whole wheat pasta: 1 box\n* Brown rice: 1 cup (dry)\n* Cornbread mix (gluten-free): 1 box\n* Gluten-free pasta: 1 box\n* Gluten-free pizza crust: 1\n* Gluten-free tortillas: 1 package\n* Rice cakes: 1 package\n\n\n**Pantry Items:**\n\n* Olive oil: 1 bottle\n* Spices (salt, pepper, etc.): as needed\n* Hummus: 1 container\n* Marinara sauce: 1 jar\n* Salsa: 1 jar\n\n\n**Snacks & Treats:**\n\n* Trail mix (low-sugar): 1 bag\n* Air-popped popcorn: kernels\n\n\n**Beverages:**\n\n* Water\n\n\n**Notes:** This list is a guideline. Adjust quantities based on your individual needs and preferences.  Look for fresh, seasonal produce whenever possible. Consider buying organic products when your budget allows.  Remember to always check food labels for nutritional information and ingredients.\n"
+}
