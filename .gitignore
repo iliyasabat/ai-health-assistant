@@ -1,0 +1,5 @@
+*.toml
+/.streamlit
+/.venv
+/venv
+**/__pycache__/
