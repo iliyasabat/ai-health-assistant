@@ -283,20 +283,20 @@ if "favorite_recipes" not in st.session_state:
 
 # Add to menu
 menu = [
-    "Home",
-    "User Profile",
-    "Meal Plan Generator",
-    "Food Analysis",
-    "Tracking & Analytics",
-    "Recommendations",
-    "AI Chat Coach",
-    "AI Meal & Recipe Suggestion",
-    "Home Workout Suggestion",
-    "Favorite Recipes"  # New menu item
+    "🏠 Home",
+    "👤 User Profile",
+    "🍽️ Meal Plan Generator",
+    "🥗 Food Analysis",
+    "📊 Tracking & Analytics",
+    "💡 Recommendations",
+    "🤖 AI Chat Coach",
+    "🍲 AI Meal & Recipe Suggestion",
+    "🏋️ Home Workout Suggestion",
+    "⭐ Favorite Recipes"  # New menu item
 ]
 
 # If on Home, show centered navigation and skip sidebar
-if st.session_state["current_page"] == "Home":
+if st.session_state["current_page"] == "🏠 Home":
     st.markdown(
         """
         <div style="display:flex; flex-direction:column; align-items:center; justify-content:center; min-height:70vh; text-align:center;">
