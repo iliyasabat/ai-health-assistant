@@ -296,7 +296,7 @@ menu = [
 ]
 
 # If on Home, show centered navigation and skip sidebar
-if st.session_state["current_page"] == "🏠 Home":
+if st.session_state["current_page"] == "Home":
     st.markdown(
         """
         <div style="display:flex; flex-direction:column; align-items:center; justify-content:center; min-height:70vh; text-align:center;">
